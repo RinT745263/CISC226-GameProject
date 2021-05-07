@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5bf6637939455e4fa20fb67566ed114, type: 3}
+  m_Name: MarioDialog1
+  m_EditorClassIdentifier: 
+  dialogModels:
+  - NPCconf: {fileID: 11400000, guid: 2cc6229757f43a140a37f341f6eff8fb, type: 2}
+    dialogText: It's a me, your jump guy, Mario!
+    dialogEventModels:
+    - dialogEvent: 0
+      args: 
+    dialogSelections: []
+  - NPCconf: {fileID: 11400000, guid: 2cc6229757f43a140a37f341f6eff8fb, type: 2}
+    dialogText: You ask me anything. Anything!
+    dialogEventModels: []
+    dialogSelections:
+    - dialogSelection: What is this place?
+      dialogEventModels:
+      - dialogEvent: 0
+        args: 
+  - NPCconf: {fileID: 11400000, guid: 2cc6229757f43a140a37f341f6eff8fb, type: 2}
+    dialogText: This is just a small space in the game world.
+    dialogEventModels:
+    - dialogEvent: 0
+      args: 
+    dialogSelections: []
+  - NPCconf: {fileID: 11400000, guid: 2cc6229757f43a140a37f341f6eff8fb, type: 2}
+    dialogText: Other people are not capable of discovering this place except the
+      people with USB.
+    dialogEventModels:
+    - dialogEvent: 0
+      args: 
+    dialogSelections: []
+  - NPCconf: {fileID: 11400000, guid: 2cc6229757f43a140a37f341f6eff8fb, type: 2}
+    dialogText: In this case, the person is you.
+    dialogEventModels:
+    - dialogEvent: 0
+      args: 
+    dialogSelections: []
+  - NPCconf: {fileID: 11400000, guid: 2cc6229757f43a140a37f341f6eff8fb, type: 2}
+    dialogText: You can also find some familiar characters you played in other games
+      in this place.
+    dialogEventModels:
+    - dialogEvent: 0
+      args: 
+    dialogSelections: []
+  - NPCconf: {fileID: 11400000, guid: 2cc6229757f43a140a37f341f6eff8fb, type: 2}
+    dialogText: But not all of us arrived here safely...
+    dialogEventModels:
+    - dialogEvent: 1
+      args: SectionSeven
+    dialogSelections: []

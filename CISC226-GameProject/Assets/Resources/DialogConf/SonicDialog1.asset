@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5bf6637939455e4fa20fb67566ed114, type: 3}
+  m_Name: SonicDialog1
+  m_EditorClassIdentifier: 
+  dialogModels:
+  - NPCconf: {fileID: 11400000, guid: 95321165f1ca0214689fb8b8edee1ac6, type: 2}
+    dialogText: Look At Your Topleft Corner of screen, there are only three folders
+      left in Your USB.
+    dialogEventModels:
+    - dialogEvent: 1
+      args: SectionFive
+    dialogSelections: []

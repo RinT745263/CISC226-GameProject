@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: e20267767672a6348a721deb38668739
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6563008402771711277
+    second: Bug_TalkIn_0
+  - first:
+      213: 6948190849896833672
+    second: Bug_TalkIn_1
+  - first:
+      213: -4115962486683557920
+    second: Bug_TalkIn_2
+  - first:
+      213: -5314062025123418745
+    second: Bug_TalkIn_3
+  - first:
+      213: -4537219940294555086
+    second: Bug_TalkIn_4
+  - first:
+      213: -8161538197855152759
+    second: Bug_TalkIn_5
+  - first:
+      213: 8438895784844220444
+    second: Bug_TalkIn_6
+  - first:
+      213: 488555815506554228
+    second: Bug_TalkIn_7
+  - first:
+      213: -6912914480850140960
+    second: Bug_TalkIn_8
+  - first:
+      213: 2418748151266068705
+    second: Bug_TalkIn_9
+  - first:
+      213: 976854105417194446
+    second: Bug_TalkIn_10
+  - first:
+      213: -7993240387493867239
+    second: Bug_TalkIn_11
+  - first:
+      213: -3262116208652223977
+    second: Bug_TalkIn_12
+  - first:
+      213: 5048294184052340741
+    second: Bug_TalkIn_13
+  - first:
+      213: -1187552505068726961
+    second: Bug_TalkIn_14
+  - first:
+      213: -621669758774756101
+    second: Bug_TalkIn_15
+  - first:
+      213: -6446438470416696557
+    second: Bug_TalkIn_16
+  - first:
+      213: -1952750415072942349
+    second: Bug_TalkIn_17
+  - first:
+      213: 5618753014441405218
+    second: Bug_TalkIn_18
+  - first:
+      213: 1327038277671349800
+    second: Bug_TalkIn_19
+  - first:
+      213: 2006946616602873420
+    second: Bug_TalkIn_20
+  - first:
+      213: -3060034909772265074
+    second: Bug_TalkIn_21
+  - first:
+      213: 4563341014199819168
+    second: Bug_TalkIn_22
+  - first:
+      213: 2027015320245416577
+    second: Bug_TalkIn_23
+  - first:
+      213: -6795481908690002376
+    second: Bug_TalkIn_24
+  - first:
+      213: 8425829258909745364
+    second: Bug_TalkIn_25
+  - first:
+      213: -7273459258241022424
+    second: Bug_TalkIn_26
+  - first:
+      213: -9118702479986798967
+    second: Bug_TalkIn_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bug_TalkIn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da63e641a28be4a0800000000000000
+      internalID: -6563008402771711277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_1
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88268bfc3ceec6060800000000000000
+      internalID: 6948190849896833672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_2
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef9468fce921e6c0800000000000000
+      internalID: -4115962486683557920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_3
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d20264eb8a046b0800000000000000
+      internalID: -5314062025123418745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_4
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a8ce6e08e8801c0800000000000000
+      internalID: -4537219940294555086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985df0030446cbe80800000000000000
+      internalID: -8161538197855152759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_6
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c185e20510bfc1570800000000000000
+      internalID: 8438895784844220444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_7
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d283cfce2b7c600800000000000000
+      internalID: 488555815506554228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_8
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e00646e7e46010a0800000000000000
+      internalID: -6912914480850140960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_9
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8c855e0ae119120800000000000000
+      internalID: 2418748151266068705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb16ce12ab7e8d00800000000000000
+      internalID: 976854105417194446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_11
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9115f13b73e421190800000000000000
+      internalID: -7993240387493867239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_12
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a7d377792aab2d0800000000000000
+      internalID: -3262116208652223977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_13
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5083c1a30d42f0640800000000000000
+      internalID: 5048294184052340741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_14
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45d04fd947f48fe0800000000000000
+      internalID: -1187552505068726961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcb0ace5a26f57f0800000000000000
+      internalID: -621669758774756101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_16
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 848
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b7668ad56a986a0800000000000000
+      internalID: -6446438470416696557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_17
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 848
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6a496f7df66e4e0800000000000000
+      internalID: -1952750415072942349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_18
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 848
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b6f62e812d9fd40800000000000000
+      internalID: 5618753014441405218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_19
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 848
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e62f758469a6210800000000000000
+      internalID: 1327038277671349800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e49c5805b1adb10800000000000000
+      internalID: 2006946616602873420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_21
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 548
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89caba56729885d0800000000000000
+      internalID: -3060034909772265074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_22
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 548
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abd95c897e345f30800000000000000
+      internalID: 4563341014199819168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_23
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 548
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182b085b1b7612c10800000000000000
+      internalID: 2027015320245416577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_24
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 548
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e50f2453991b1a0800000000000000
+      internalID: -6795481908690002376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0886ba11f8ee470800000000000000
+      internalID: 8425829258909745364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_26
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 248
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8268440575b7f0b90800000000000000
+      internalID: -7273459258241022424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TalkIn_27
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 248
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ec9eb486cd37180800000000000000
+      internalID: -9118702479986798967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

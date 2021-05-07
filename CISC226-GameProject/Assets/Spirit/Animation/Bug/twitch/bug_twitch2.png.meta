@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: aec94d655e374c74d8a9abbe11c22c41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2418207306913020679
+    second: bug_twitch2_0
+  - first:
+      213: -5379038111492128952
+    second: bug_twitch2_1
+  - first:
+      213: 2623410584865680941
+    second: bug_twitch2_2
+  - first:
+      213: -1466776026653185433
+    second: bug_twitch2_3
+  - first:
+      213: 8009406407100478397
+    second: bug_twitch2_4
+  - first:
+      213: -2446152590697631296
+    second: bug_twitch2_5
+  - first:
+      213: 2180466256794740938
+    second: bug_twitch2_6
+  - first:
+      213: 4038179812415646387
+    second: bug_twitch2_7
+  - first:
+      213: 7200644444944918885
+    second: bug_twitch2_8
+  - first:
+      213: 7131718271551072069
+    second: bug_twitch2_9
+  - first:
+      213: 1028662441441648782
+    second: bug_twitch2_10
+  - first:
+      213: 2608224198955514550
+    second: bug_twitch2_11
+  - first:
+      213: -7264430930100069839
+    second: bug_twitch2_12
+  - first:
+      213: -2775958992543364252
+    second: bug_twitch2_13
+  - first:
+      213: -3911768823100780620
+    second: bug_twitch2_14
+  - first:
+      213: 1945851208641734442
+    second: bug_twitch2_15
+  - first:
+      213: -3192518491989210069
+    second: bug_twitch2_16
+  - first:
+      213: -4500140735580058820
+    second: bug_twitch2_17
+  - first:
+      213: 1698484141093876506
+    second: bug_twitch2_18
+  - first:
+      213: 3448846401702869986
+    second: bug_twitch2_19
+  - first:
+      213: -7646133477786194678
+    second: bug_twitch2_20
+  - first:
+      213: 500851465177551515
+    second: bug_twitch2_21
+  - first:
+      213: -3851159040179673075
+    second: bug_twitch2_22
+  - first:
+      213: 2964311427728944515
+    second: bug_twitch2_23
+  - first:
+      213: 4497686971846573702
+    second: bug_twitch2_24
+  - first:
+      213: 1348103204871462020
+    second: bug_twitch2_25
+  - first:
+      213: -3106801206631501002
+    second: bug_twitch2_26
+  - first:
+      213: -991490174351526962
+    second: bug_twitch2_27
+  - first:
+      213: 4857053761135058031
+    second: bug_twitch2_28
+  - first:
+      213: -5480401074248084565
+    second: bug_twitch2_29
+  - first:
+      213: 4884405555258240342
+    second: bug_twitch2_30
+  - first:
+      213: 61541623088695591
+    second: bug_twitch2_31
+  - first:
+      213: 5909418938867723349
+    second: bug_twitch2_32
+  - first:
+      213: -6939165123605943368
+    second: bug_twitch2_33
+  - first:
+      213: 1913957419782474640
+    second: bug_twitch2_34
+  - first:
+      213: -2064167717572728791
+    second: bug_twitch2_35
+  - first:
+      213: -6300565230700352873
+    second: bug_twitch2_36
+  - first:
+      213: 8997876611659264158
+    second: bug_twitch2_37
+  - first:
+      213: 7896470931649745232
+    second: bug_twitch2_38
+  - first:
+      213: -5738495998704389903
+    second: bug_twitch2_39
+  - first:
+      213: -7064868055534575582
+    second: bug_twitch2_40
+  - first:
+      213: 1705266055310444721
+    second: bug_twitch2_41
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bug_twitch2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1523
+        width: 71
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4023e344dc07ed0800000000000000
+      internalID: -2418207306913020679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_1
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1490
+        width: 200
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f39334651d955b0800000000000000
+      internalID: -5379038111492128952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_2
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1463
+        width: 267
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e2bea070a386420800000000000000
+      internalID: 2623410584865680941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_3
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1466
+        width: 288
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a274e99f6f4abe0800000000000000
+      internalID: -1466776026653185433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_4
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1616
+        width: 296
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db336fc01b0272f60800000000000000
+      internalID: 8009406407100478397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_5
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1469
+        width: 516
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1f015dd258d0ed0800000000000000
+      internalID: -2446152590697631296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_6
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 1684
+        width: 252
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8e9f80282924e10800000000000000
+      internalID: 2180466256794740938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_7
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 1500
+        width: 292
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba203ae42f7a0830800000000000000
+      internalID: 4038179812415646387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_8
+      rect:
+        serializedVersion: 2
+        x: 3314
+        y: 1502
+        width: 377
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569e4d6d8f3dde360800000000000000
+      internalID: 7200644444944918885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_9
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 1528
+        width: 231
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547e6f58bf3f8f260800000000000000
+      internalID: 7131718271551072069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_10
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1523
+        width: 71
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e806ae75a0b864e00800000000000000
+      internalID: 1028662441441648782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_11
+      rect:
+        serializedVersion: 2
+        x: 4407
+        y: 1490
+        width: 223
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba32590716423420800000000000000
+      internalID: 2608224198955514550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_12
+      rect:
+        serializedVersion: 2
+        x: 4781
+        y: 1463
+        width: 267
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a5604ce8e8f2b90800000000000000
+      internalID: -7264430930100069839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_13
+      rect:
+        serializedVersion: 2
+        x: 5161
+        y: 1466
+        width: 288
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bc6620100d979d0800000000000000
+      internalID: -2775958992543364252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_14
+      rect:
+        serializedVersion: 2
+        x: 5641
+        y: 1616
+        width: 296
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf41a71bfa96b9c0800000000000000
+      internalID: -3911768823100780620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_15
+      rect:
+        serializedVersion: 2
+        x: 6044
+        y: 1469
+        width: 516
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27eadc5d5d010b10800000000000000
+      internalID: 1945851208641734442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_16
+      rect:
+        serializedVersion: 2
+        x: 6615
+        y: 1684
+        width: 252
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c0e12a855e1b3d0800000000000000
+      internalID: -3192518491989210069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_17
+      rect:
+        serializedVersion: 2
+        x: 6966
+        y: 1500
+        width: 292
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b4c7008d94c81c0800000000000000
+      internalID: -4500140735580058820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_18
+      rect:
+        serializedVersion: 2
+        x: 7314
+        y: 1502
+        width: 377
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13f88ec35a329710800000000000000
+      internalID: 1698484141093876506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_19
+      rect:
+        serializedVersion: 2
+        x: 7712
+        y: 1528
+        width: 231
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb32629783ccdf20800000000000000
+      internalID: 3448846401702869986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 773
+        width: 71
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0de457ec1a73e590800000000000000
+      internalID: -7646133477786194678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_21
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 740
+        width: 200
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92542301c163f600800000000000000
+      internalID: 500851465177551515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_22
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 548
+        width: 267
+        height: 757
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d086e8cd14fed8ac0800000000000000
+      internalID: -3851159040179673075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_23
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 716
+        width: 288
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d2a65b989532920800000000000000
+      internalID: 2964311427728944515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_24
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 866
+        width: 296
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e31db987efa6e30800000000000000
+      internalID: 4497686971846573702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_25
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 719
+        width: 516
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cdde6e8bc65b210800000000000000
+      internalID: 1348103204871462020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_26
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 934
+        width: 252
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63379fa53cc62e4d0800000000000000
+      internalID: -3106801206631501002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_27
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 750
+        width: 292
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3bc7780f48d32f0800000000000000
+      internalID: -991490174351526962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_28
+      rect:
+        serializedVersion: 2
+        x: 3314
+        y: 752
+        width: 377
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c1e6779a8b76340800000000000000
+      internalID: 4857053761135058031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_29
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 778
+        width: 231
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba316c66244b1f3b0800000000000000
+      internalID: -5480401074248084565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_30
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 773
+        width: 71
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dac1c49f4e8c340800000000000000
+      internalID: 4884405555258240342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_31
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 740
+        width: 255
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7294a17b7c3aad000800000000000000
+      internalID: 61541623088695591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_32
+      rect:
+        serializedVersion: 2
+        x: 4781
+        y: 548
+        width: 267
+        height: 757
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c2d282739720250800000000000000
+      internalID: 5909418938867723349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_33
+      rect:
+        serializedVersion: 2
+        x: 5253
+        y: 1074
+        width: 158
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb20b9d51223bf90800000000000000
+      internalID: -6939165123605943368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_34
+      rect:
+        serializedVersion: 2
+        x: 5641
+        y: 866
+        width: 296
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b8b59f12ebf8a10800000000000000
+      internalID: 1913957419782474640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_35
+      rect:
+        serializedVersion: 2
+        x: 6044
+        y: 719
+        width: 516
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928af35b56a9a53e0800000000000000
+      internalID: -2064167717572728791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_36
+      rect:
+        serializedVersion: 2
+        x: 6615
+        y: 934
+        width: 252
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aade3fd45ef88a0800000000000000
+      internalID: -6300565230700352873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_37
+      rect:
+        serializedVersion: 2
+        x: 6966
+        y: 750
+        width: 292
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90feb20b11eedc70800000000000000
+      internalID: 8997876611659264158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_38
+      rect:
+        serializedVersion: 2
+        x: 7314
+        y: 752
+        width: 377
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0515e2c9976e59d60800000000000000
+      internalID: 7896470931649745232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_39
+      rect:
+        serializedVersion: 2
+        x: 7712
+        y: 778
+        width: 231
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f079340b44cc50b0800000000000000
+      internalID: -5738495998704389903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_40
+      rect:
+        serializedVersion: 2
+        x: 4066
+        y: 1198
+        width: 213
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2206bdc4feb84fd90800000000000000
+      internalID: -7064868055534575582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_twitch2_41
+      rect:
+        serializedVersion: 2
+        x: 5161
+        y: 716
+        width: 288
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b88f4241725aa710800000000000000
+      internalID: 1705266055310444721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

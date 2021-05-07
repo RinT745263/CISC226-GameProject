@@ -1,0 +1,1591 @@
+fileFormatVersion: 2
+guid: fb2fea28c28650b4eb5f30ea8a7a62e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6330897993470567756
+    second: FinalHit_PlayerFlash_0
+  - first:
+      213: -2975848618483991046
+    second: FinalHit_PlayerFlash_1
+  - first:
+      213: -8461568153646346362
+    second: FinalHit_PlayerFlash_2
+  - first:
+      213: -4703302957664817297
+    second: FinalHit_PlayerFlash_3
+  - first:
+      213: 5086081698073469394
+    second: FinalHit_PlayerFlash_4
+  - first:
+      213: 7777852137122923152
+    second: FinalHit_PlayerFlash_5
+  - first:
+      213: -5439305712444667414
+    second: FinalHit_PlayerFlash_6
+  - first:
+      213: -5362680459383463561
+    second: FinalHit_PlayerFlash_7
+  - first:
+      213: -5072234401228447557
+    second: FinalHit_PlayerFlash_8
+  - first:
+      213: 4866160549834232701
+    second: FinalHit_PlayerFlash_9
+  - first:
+      213: 2284254692419478104
+    second: FinalHit_PlayerFlash_10
+  - first:
+      213: 937649364034435251
+    second: FinalHit_PlayerFlash_11
+  - first:
+      213: 9028659956513281844
+    second: FinalHit_PlayerFlash_12
+  - first:
+      213: -7271706556315721165
+    second: FinalHit_PlayerFlash_13
+  - first:
+      213: 8402837205992421384
+    second: FinalHit_PlayerFlash_14
+  - first:
+      213: -4106515339068157885
+    second: FinalHit_PlayerFlash_15
+  - first:
+      213: 6787832008877422873
+    second: FinalHit_PlayerFlash_16
+  - first:
+      213: -3087592247276865621
+    second: FinalHit_PlayerFlash_17
+  - first:
+      213: -2825302135030700613
+    second: FinalHit_PlayerFlash_18
+  - first:
+      213: -4141597839087098588
+    second: FinalHit_PlayerFlash_19
+  - first:
+      213: -189863122182436318
+    second: FinalHit_PlayerFlash_20
+  - first:
+      213: 6333861133507226526
+    second: FinalHit_PlayerFlash_21
+  - first:
+      213: -3604715311053820083
+    second: FinalHit_PlayerFlash_22
+  - first:
+      213: -8940360746800694470
+    second: FinalHit_PlayerFlash_23
+  - first:
+      213: -7647853278016927303
+    second: FinalHit_PlayerFlash_24
+  - first:
+      213: 222559402133528857
+    second: FinalHit_PlayerFlash_25
+  - first:
+      213: -8862445030160761224
+    second: FinalHit_PlayerFlash_26
+  - first:
+      213: 2948706936770169226
+    second: FinalHit_PlayerFlash_27
+  - first:
+      213: -1841767241695509909
+    second: FinalHit_PlayerFlash_28
+  - first:
+      213: -7345860937631319651
+    second: FinalHit_PlayerFlash_29
+  - first:
+      213: 6258979738059056253
+    second: FinalHit_PlayerFlash_30
+  - first:
+      213: -3284743204230048855
+    second: FinalHit_PlayerFlash_31
+  - first:
+      213: -8021138098783886065
+    second: FinalHit_PlayerFlash_32
+  - first:
+      213: -6976300792845551912
+    second: FinalHit_PlayerFlash_33
+  - first:
+      213: 7161147367649551970
+    second: FinalHit_PlayerFlash_34
+  - first:
+      213: 6345421234825970110
+    second: FinalHit_PlayerFlash_35
+  - first:
+      213: -7115731086834817256
+    second: FinalHit_PlayerFlash_36
+  - first:
+      213: 7693699438183485884
+    second: FinalHit_PlayerFlash_37
+  - first:
+      213: -8514372586546800157
+    second: FinalHit_PlayerFlash_38
+  - first:
+      213: -4208076428066001701
+    second: FinalHit_PlayerFlash_39
+  - first:
+      213: -1753030455992430806
+    second: FinalHit_PlayerFlash_40
+  - first:
+      213: 5229874290482409360
+    second: FinalHit_PlayerFlash_41
+  - first:
+      213: -9168301695910950986
+    second: FinalHit_PlayerFlash_42
+  - first:
+      213: -5414703984027018985
+    second: FinalHit_PlayerFlash_43
+  - first:
+      213: 1808283112935555027
+    second: FinalHit_PlayerFlash_44
+  - first:
+      213: 8380196536302752403
+    second: FinalHit_PlayerFlash_45
+  - first:
+      213: 8549964786253453572
+    second: FinalHit_PlayerFlash_46
+  - first:
+      213: 780693174222306154
+    second: FinalHit_PlayerFlash_47
+  - first:
+      213: 5192410290856380170
+    second: FinalHit_PlayerFlash_48
+  - first:
+      213: 7232698648283909211
+    second: FinalHit_PlayerFlash_49
+  - first:
+      213: -7871622927019776908
+    second: FinalHit_PlayerFlash_50
+  - first:
+      213: -2509821520901579683
+    second: FinalHit_PlayerFlash_51
+  - first:
+      213: 1427828387199910169
+    second: FinalHit_PlayerFlash_52
+  - first:
+      213: -7472037029110804149
+    second: FinalHit_PlayerFlash_53
+  - first:
+      213: -3957749029216110790
+    second: FinalHit_PlayerFlash_54
+  - first:
+      213: 8181522926441730612
+    second: FinalHit_PlayerFlash_55
+  - first:
+      213: 5328464175933253096
+    second: FinalHit_PlayerFlash_56
+  - first:
+      213: -2806480409977150255
+    second: FinalHit_PlayerFlash_57
+  - first:
+      213: 8000750567636600756
+    second: FinalHit_PlayerFlash_58
+  - first:
+      213: 7570448308001327389
+    second: FinalHit_PlayerFlash_59
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3796
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.42400002, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45eb0abe2edbd750800000000000000
+      internalID: 6330897993470567756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3796
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdbcedb279a3b6d0800000000000000
+      internalID: -2975848618483991046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3796
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fc6277898729a80800000000000000
+      internalID: -8461568153646346362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3796
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f285111e28abeb0800000000000000
+      internalID: -4703302957664817297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_4
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3796
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1e8407b54659640800000000000000
+      internalID: 5086081698073469394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_5
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3796
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09289b45f4b70fb60800000000000000
+      internalID: 7777852137122923152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_6
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3796
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae98bf0f544b384b0800000000000000
+      internalID: -5439305712444667414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_7
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3796
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771258ee88ee395b0800000000000000
+      internalID: -5362680459383463561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3496
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb023499fadcb99b0800000000000000
+      internalID: -5072234401228447557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3496
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7393e0fc33188340800000000000000
+      internalID: 4866160549834232701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_10
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3496
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852ae2e4a8d43bf10800000000000000
+      internalID: 2284254692419478104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_11
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3496
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8b423f023330d00800000000000000
+      internalID: 937649364034435251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_12
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3496
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43794c1056e3c4d70800000000000000
+      internalID: 9028659956513281844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_13
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3496
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3322ce70a65b51b90800000000000000
+      internalID: -7271706556315721165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_14
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3496
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8083d903befdc9470800000000000000
+      internalID: 8402837205992421384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_15
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3496
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340562e6e0ab207c0800000000000000
+      internalID: -4106515339068157885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3196
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9193a24af39333e50800000000000000
+      internalID: 6787832008877422873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3196
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7ffc9b53ba625d0800000000000000
+      internalID: -3087592247276865621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_18
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3196
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5a7526da28ac8d0800000000000000
+      internalID: -2825302135030700613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_19
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3196
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42520be55b61686c0800000000000000
+      internalID: -4141597839087098588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_20
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3196
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a8e5e0f787d5df0800000000000000
+      internalID: -189863122182436318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_21
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3196
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9be957842566e750800000000000000
+      internalID: 6333861133507226526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_22
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3196
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fa930f58a79fdc0800000000000000
+      internalID: -3604715311053820083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_23
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3196
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b3913d4457de380800000000000000
+      internalID: -8940360746800694470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2896
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b98e75b6fd5dd590800000000000000
+      internalID: -7647853278016927303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2896
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911a799d890b61300800000000000000
+      internalID: 222559402133528857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_26
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2896
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e77d74335420580800000000000000
+      internalID: -8862445030160761224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_27
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2896
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a898ae80659ebe820800000000000000
+      internalID: 2948706936770169226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_28
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2896
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62c9c7a37ab076e0800000000000000
+      internalID: -1841767241695509909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_29
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2896
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d993113b5624e0a90800000000000000
+      internalID: -7345860937631319651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_30
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2896
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74a06709ec5cd650800000000000000
+      internalID: 6258979738059056253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_31
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 2896
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a35d75857f3a62d0800000000000000
+      internalID: -3284743204230048855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2596
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0562af95613fa090800000000000000
+      internalID: -8021138098783886065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_33
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2596
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d63a2414633f2f90800000000000000
+      internalID: -6976300792845551912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_34
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2596
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266a9f8e691816360800000000000000
+      internalID: 7161147367649551970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_35
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2596
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1c50c5ef67f0850800000000000000
+      internalID: 6345421234825970110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_36
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2596
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817a10cf648df3d90800000000000000
+      internalID: -7115731086834817256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_37
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2596
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb19c8540e285ca60800000000000000
+      internalID: 7693699438183485884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_38
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2596
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9dd8d5e3fd6d980800000000000000
+      internalID: -8514372586546800157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_39
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 2596
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc6e65b8c8e995c0800000000000000
+      internalID: -4208076428066001701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2296
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f4126961cfba7e0800000000000000
+      internalID: -1753030455992430806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_41
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2296
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fe62845fe349840800000000000000
+      internalID: 5229874290482409360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_42
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2296
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7cd9dee26a3c080800000000000000
+      internalID: -9168301695910950986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_43
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2296
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7195d243a6b1bd4b0800000000000000
+      internalID: -5414703984027018985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_44
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2296
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df7cd719ef481910800000000000000
+      internalID: 1808283112935555027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_45
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2296
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392d84e79507c4470800000000000000
+      internalID: 8380196536302752403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_46
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2296
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4095cb66ca397a670800000000000000
+      internalID: 8549964786253453572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_47
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 2296
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bb7104e4495da00800000000000000
+      internalID: 780693174222306154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1996
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07c39226a52f0840800000000000000
+      internalID: 5192410290856380170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_49
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1996
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c0962a915bf5460800000000000000
+      internalID: 7232698648283909211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_50
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1996
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4746a2d47a062c290800000000000000
+      internalID: -7871622927019776908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_51
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1996
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cd705df925b2dd0800000000000000
+      internalID: -2509821520901579683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_52
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1996
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911054b6a5aa0d310800000000000000
+      internalID: 1427828387199910169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_53
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1996
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41194b19edfd4890800000000000000
+      internalID: -7472037029110804149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_54
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1996
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a373d6b1a304319c0800000000000000
+      internalID: -3957749029216110790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_55
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1996
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432164801cb9a8170800000000000000
+      internalID: 8181522926441730612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1696
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e565e4cfe182f940800000000000000
+      internalID: 5328464175933253096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_57
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1696
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4283ebfe06d09d0800000000000000
+      internalID: -2806480409977150255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_58
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1696
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b70c706040680f60800000000000000
+      internalID: 8000750567636600756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalHit_PlayerFlash_59
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1696
+        width: 1000
+        height: 300
+      alignment: 9
+      pivot: {x: 0.424, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1940ec40a2af0960800000000000000
+      internalID: 7570448308001327389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1039 @@
+fileFormatVersion: 2
+guid: 0b1c63c41ed4296429e3079ff41b3df9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -297265084895973519
+    second: bugAttackOneToHero_0
+  - first:
+      213: -9200113528722419271
+    second: bugAttackOneToHero_1
+  - first:
+      213: -5205179763045910117
+    second: bugAttackOneToHero_2
+  - first:
+      213: -2351908820146464907
+    second: bugAttackOneToHero_3
+  - first:
+      213: 9017343853202573237
+    second: bugAttackOneToHero_4
+  - first:
+      213: -4970546603289458769
+    second: bugAttackOneToHero_5
+  - first:
+      213: -6740136530910446400
+    second: bugAttackOneToHero_6
+  - first:
+      213: -9115533733846363748
+    second: bugAttackOneToHero_7
+  - first:
+      213: -6001680438920512564
+    second: bugAttackOneToHero_8
+  - first:
+      213: 2394549106007628922
+    second: bugAttackOneToHero_9
+  - first:
+      213: -6045921378061720262
+    second: bugAttackOneToHero_10
+  - first:
+      213: 6905096964930549880
+    second: bugAttackOneToHero_11
+  - first:
+      213: 7620856749608772890
+    second: bugAttackOneToHero_12
+  - first:
+      213: -6447490787021033846
+    second: bugAttackOneToHero_13
+  - first:
+      213: -1126227101225663737
+    second: bugAttackOneToHero_14
+  - first:
+      213: -200801978681384251
+    second: bugAttackOneToHero_15
+  - first:
+      213: 3842974454341193202
+    second: bugAttackOneToHero_16
+  - first:
+      213: -102791194201736847
+    second: bugAttackOneToHero_17
+  - first:
+      213: -4650680259701303315
+    second: bugAttackOneToHero_18
+  - first:
+      213: 7459260124898860071
+    second: bugAttackOneToHero_19
+  - first:
+      213: -8730717488834354484
+    second: bugAttackOneToHero_20
+  - first:
+      213: -8865156399731494167
+    second: bugAttackOneToHero_21
+  - first:
+      213: -3230948594538324642
+    second: bugAttackOneToHero_22
+  - first:
+      213: -4609550459887630651
+    second: bugAttackOneToHero_23
+  - first:
+      213: -1870040581437658556
+    second: bugAttackOneToHero_24
+  - first:
+      213: 5851983533762364858
+    second: bugAttackOneToHero_25
+  - first:
+      213: 8415350082362886403
+    second: bugAttackOneToHero_26
+  - first:
+      213: 2605726913623311328
+    second: bugAttackOneToHero_27
+  - first:
+      213: -8159181264172387331
+    second: bugAttackOneToHero_28
+  - first:
+      213: -4276073207309828921
+    second: bugAttackOneToHero_29
+  - first:
+      213: -7795260632036657661
+    second: bugAttackOneToHero_30
+  - first:
+      213: 96651826622912794
+    second: bugAttackOneToHero_31
+  - first:
+      213: 4025836199939050138
+    second: bugAttackOneToHero_32
+  - first:
+      213: -2199959770378574729
+    second: bugAttackOneToHero_33
+  - first:
+      213: 1410310292302301471
+    second: bugAttackOneToHero_34
+  - first:
+      213: -7321354682103288815
+    second: bugAttackOneToHero_35
+  - first:
+      213: -3324971061875993522
+    second: bugAttackOneToHero_36
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bugAttackOneToHero_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f26a2faf6efdbf0800000000000000
+      internalID: -297265084895973519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 7192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b11c3b6d71a25080800000000000000
+      internalID: -9200113528722419271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 7192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99b89f659c73c7b0800000000000000
+      internalID: -5205179763045910117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577df0793675c5fd0800000000000000
+      internalID: -2351908820146464907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_4
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 7192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b701b3657a042d70800000000000000
+      internalID: 9017343853202573237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_5
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 7192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7486b0332150bb0800000000000000
+      internalID: -4970546603289458769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_6
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 7192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccf27139893672a0800000000000000
+      internalID: -6740136530910446400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_7
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 7192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c915fff7d5e1f7180800000000000000
+      internalID: -9115533733846363748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb7bb6607fb5bca0800000000000000
+      internalID: -6001680438920512564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c50dc99b52b3120800000000000000
+      internalID: 2394549106007628922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_10
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35e0b01a82981ca0800000000000000
+      internalID: -6045921378061720262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_11
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8783056da15d3df50800000000000000
+      internalID: 6905096964930549880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_12
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 6192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15a19436d8b2c960800000000000000
+      internalID: 7620856749608772890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_13
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ee10b1a49e586a0800000000000000
+      internalID: -6447490787021033846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_14
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 6192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703c60f1b66de50f0800000000000000
+      internalID: -1126227101225663737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2208e0aab963df0800000000000000
+      internalID: -200801978681384251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_16
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd48efb7ecf45530800000000000000
+      internalID: 3842974454341193202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_17
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179319714ffc29ef0800000000000000
+      internalID: -102791194201736847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_18
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de71594b1f6757fb0800000000000000
+      internalID: -4650680259701303315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_19
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c15df009d948760800000000000000
+      internalID: 7459260124898860071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_20
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 5192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2ecb383b246d680800000000000000
+      internalID: -8730717488834354484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_21
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e239bb5933a8f480800000000000000
+      internalID: -8865156399731494167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_22
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 5192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ddefe1f5d5923d0800000000000000
+      internalID: -3230948594538324642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6c82877469700c0800000000000000
+      internalID: -4609550459887630651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ae7d3cff74c06e0800000000000000
+      internalID: -1870040581437658556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_25
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab54751d40c663150800000000000000
+      internalID: 5851983533762364858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_26
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3094bcf305459c470800000000000000
+      internalID: 8415350082362886403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_27
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3413c72d6692420800000000000000
+      internalID: 2605726913623311328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_28
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 4192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df37bf29ed3c4ce80800000000000000
+      internalID: -8159181264172387331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_29
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc7bb4d21658a4c0800000000000000
+      internalID: -4276073207309828921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_30
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 4192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3063ed791cba1d390800000000000000
+      internalID: -7795260632036657661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1950c00350675100800000000000000
+      internalID: 96651826622912794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_32
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a864da1b4aed730800000000000000
+      internalID: 4025836199939050138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_33
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7746f66ae3c2871e0800000000000000
+      internalID: -2199959770378574729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_34
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1981cb1dbd629310800000000000000
+      internalID: 1410310292302301471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_35
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c2792f4b2556a90800000000000000
+      internalID: -7321354682103288815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugAttackOneToHero_36
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3192
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e449d688f645bd1d0800000000000000
+      internalID: -3324971061875993522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,943 @@
+fileFormatVersion: 2
+guid: ac06bd40e2305ed4b97fa9aed06feb90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2451171324871787443
+    second: rebirth_final_0
+  - first:
+      213: -290367085875570652
+    second: rebirth_final_1
+  - first:
+      213: 2009919565182944347
+    second: rebirth_final_2
+  - first:
+      213: 5203481451167834742
+    second: rebirth_final_3
+  - first:
+      213: 4522912788868681139
+    second: rebirth_final_4
+  - first:
+      213: 2219021752513435408
+    second: rebirth_final_5
+  - first:
+      213: 898742598788030303
+    second: rebirth_final_6
+  - first:
+      213: -7882132586728878858
+    second: rebirth_final_7
+  - first:
+      213: 8159281744688685124
+    second: rebirth_final_8
+  - first:
+      213: -5641214691905360022
+    second: rebirth_final_9
+  - first:
+      213: 5068874679976732999
+    second: rebirth_final_10
+  - first:
+      213: 1853199579127490143
+    second: rebirth_final_11
+  - first:
+      213: 6463391601736203330
+    second: rebirth_final_12
+  - first:
+      213: 8787738373718179714
+    second: rebirth_final_13
+  - first:
+      213: -474586642985768588
+    second: rebirth_final_14
+  - first:
+      213: 6350261199452928926
+    second: rebirth_final_15
+  - first:
+      213: 5880906914562929348
+    second: rebirth_final_16
+  - first:
+      213: 9045156554679162481
+    second: rebirth_final_17
+  - first:
+      213: -1322026830720233659
+    second: rebirth_final_18
+  - first:
+      213: -7480772077503714573
+    second: rebirth_final_19
+  - first:
+      213: 6268110787020169163
+    second: rebirth_final_20
+  - first:
+      213: -5987741885158703834
+    second: rebirth_final_21
+  - first:
+      213: -3897929253599660946
+    second: rebirth_final_22
+  - first:
+      213: -8826940089951100594
+    second: rebirth_final_23
+  - first:
+      213: 2202620599038007435
+    second: rebirth_final_24
+  - first:
+      213: -4910362983196912382
+    second: rebirth_final_25
+  - first:
+      213: 6253103488239924633
+    second: rebirth_final_26
+  - first:
+      213: 3435355382257421208
+    second: rebirth_final_27
+  - first:
+      213: -8185002820484580032
+    second: rebirth_final_28
+  - first:
+      213: -2392821472988839104
+    second: rebirth_final_29
+  - first:
+      213: 2268352090013296332
+    second: rebirth_final_30
+  - first:
+      213: 1922362642649445157
+    second: rebirth_final_31
+  - first:
+      213: -1562568140651427320
+    second: rebirth_final_32
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rebirth_final_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4992
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cb469baa0bbfdd0800000000000000
+      internalID: -2451171324871787443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4992
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428dbef7ca868fbf0800000000000000
+      internalID: -290367085875570652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4992
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5446dd023ba4eb10800000000000000
+      internalID: 2009919565182944347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4992
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67261348fca763840800000000000000
+      internalID: 5203481451167834742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_4
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4992
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdc692d73d94ce30800000000000000
+      internalID: 4522912788868681139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4160
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0179d6be68c8bce10800000000000000
+      internalID: 2219021752513435408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4160
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f9541c1a9f87c00800000000000000
+      internalID: 898742598788030303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_7
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4160
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc8e777c2a0d9290800000000000000
+      internalID: -7882132586728878858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4160
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440af7e54879b3170800000000000000
+      internalID: 8159281744688685124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_9
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4160
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f244b402166b1b0800000000000000
+      internalID: -5641214691905360022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3328
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7492cf65aa2485640800000000000000
+      internalID: 5068874679976732999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3328
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f562cc3d233e7b910800000000000000
+      internalID: 1853199579127490143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_12
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3328
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cbab1da6492b950800000000000000
+      internalID: 6463391601736203330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_13
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3328
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f7a80dd7154f970800000000000000
+      internalID: 8787738373718179714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_14
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3328
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47920b176fde969f0800000000000000
+      internalID: -474586642985768588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2496
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b76507ae8a02850800000000000000
+      internalID: 6350261199452928926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2496
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c279af2ead2d9150800000000000000
+      internalID: 5880906914562929348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_17
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2496
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176927396f9d68d70800000000000000
+      internalID: 9045156554679162481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_18
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2496
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f82631a9737ade0800000000000000
+      internalID: -1322026830720233659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_19
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2496
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faeaba2e65fe2890800000000000000
+      internalID: -7480772077503714573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf91290d8dccf650800000000000000
+      internalID: 6268110787020169163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1664
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d3368da7447eca0800000000000000
+      internalID: -5987741885158703834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1664
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64b697fef5c7e9c0800000000000000
+      internalID: -3897929253599660946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_23
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1664
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e416fcc51c8608580800000000000000
+      internalID: -8826940089951100594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_24
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1664
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b885e9cc3c7419e10800000000000000
+      internalID: 2202620599038007435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205125c02e2eadbb0800000000000000
+      internalID: -4910362983196912382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 832
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995fb400e7c77c650800000000000000
+      internalID: 6253103488239924633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_27
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 832
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b0ea4d485dcaf20800000000000000
+      internalID: 3435355382257421208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_28
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 832
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d327ffc47096e80800000000000000
+      internalID: -8185002820484580032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_29
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 832
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043c29b4c8dfaced0800000000000000
+      internalID: -2392821472988839104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6e1c6253eca7f10800000000000000
+      internalID: 2268352090013296332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_31
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523f99c63aa9daa10800000000000000
+      internalID: 1922362642649445157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebirth_final_32
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 800
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.52163464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a012f0e84a05ae0800000000000000
+      internalID: -1562568140651427320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

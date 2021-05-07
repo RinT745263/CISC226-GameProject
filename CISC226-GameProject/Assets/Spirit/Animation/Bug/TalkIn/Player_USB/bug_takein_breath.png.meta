@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: 28173d5abe748ad47a3ec8a7be55a6af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4484792055586821535
+    second: bug_takein_breath_0
+  - first:
+      213: 7532634367215224306
+    second: bug_takein_breath_1
+  - first:
+      213: 911985358750913577
+    second: bug_takein_breath_2
+  - first:
+      213: -652993197574986013
+    second: bug_takein_breath_3
+  - first:
+      213: -5468877588807219129
+    second: bug_takein_breath_4
+  - first:
+      213: -3894292079748012559
+    second: bug_takein_breath_5
+  - first:
+      213: 6564008952710563966
+    second: bug_takein_breath_6
+  - first:
+      213: 8778420472921816637
+    second: bug_takein_breath_7
+  - first:
+      213: 7688329802841461502
+    second: bug_takein_breath_8
+  - first:
+      213: 1423849451215464546
+    second: bug_takein_breath_9
+  - first:
+      213: -822644255171617707
+    second: bug_takein_breath_10
+  - first:
+      213: 7443499967188292582
+    second: bug_takein_breath_11
+  - first:
+      213: -7248537658843796230
+    second: bug_takein_breath_12
+  - first:
+      213: 2700366320552995065
+    second: bug_takein_breath_13
+  - first:
+      213: 9034509347115782756
+    second: bug_takein_breath_14
+  - first:
+      213: 538707108353605700
+    second: bug_takein_breath_15
+  - first:
+      213: -5955799765847393209
+    second: bug_takein_breath_16
+  - first:
+      213: -1114255796861540879
+    second: bug_takein_breath_17
+  - first:
+      213: 428828682306533873
+    second: bug_takein_breath_18
+  - first:
+      213: 100964467858885837
+    second: bug_takein_breath_19
+  - first:
+      213: -1642611427515578760
+    second: bug_takein_breath_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bug_takein_breath_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ae04b0361d2c1c0800000000000000
+      internalID: -4484792055586821535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_takein_breath_1
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3456
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f543c02c0b498860800000000000000
+      internalID: 7532634367215224306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_takein_breath_2
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3456
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92494b41ad508ac00800000000000000
+      internalID: 911985358750913577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_takein_breath_3
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3456
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6ebc1852a10f6f0800000000000000
+      internalID: -652993197574986013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_takein_breath_4
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3456
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7480d0feec4aa14b0800000000000000
+      internalID: -5468877588807219129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_takein_breath_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2816
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5a00f7cf1b4f9c0800000000000000
+      internalID: -3894292079748012559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_takein_breath_6
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2816
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e780cc86d5b081b50800000000000000
+      internalID: 6564008952710563966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_takein_breath_7
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2816
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e7589f8e633d970800000000000000
+      internalID: 8778420472921816637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_takein_breath_8
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2816
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef21a6e983f62ba60800000000000000
+      internalID: 7688329802841461502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_takein_breath_9
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2816
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2682551388782c310800000000000000
+      internalID: 1423849451215464546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_takein_breath_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2176
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cdaf198616594f0800000000000000
+      internalID: -822644255171617707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_takein_breath_11
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2176
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3d3e568cf9c4760800000000000000
+      internalID: 7443499967188292582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_takein_breath_12
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2176
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afce2975765086b90800000000000000
+      internalID: -7248537658843796230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_takein_breath_13
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2176
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f86df38cd0a97520800000000000000
+      internalID: 2700366320552995065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_takein_breath_14
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2176
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46258c26266016d70800000000000000
+      internalID: 9034509347115782756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_takein_breath_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4400567c24fd97700800000000000000
+      internalID: 538707108353605700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_takein_breath_16
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1536
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cbf4b0bafb85da0800000000000000
+      internalID: -5955799765847393209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_takein_breath_17
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1536
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5e52f914e5980f0800000000000000
+      internalID: -1114255796861540879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_takein_breath_18
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1536
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9316e1a6183f500800000000000000
+      internalID: 428828682306533873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_takein_breath_19
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1536
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc4aa906a2b66100800000000000000
+      internalID: 100964467858885837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug_takein_breath_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 1600
+        height: 640
+      alignment: 9
+      pivot: {x: 0.503125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876cfee0c954439e0800000000000000
+      internalID: -1642611427515578760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

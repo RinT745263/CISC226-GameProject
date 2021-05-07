@@ -1,0 +1,712 @@
+fileFormatVersion: 2
+guid: 40c525cd980ac154aae52181d117d84f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9137947679701379726
+    second: TheHero_teleport_BlackLight_0
+  - first:
+      213: 7999443175446887396
+    second: TheHero_teleport_BlackLight_1
+  - first:
+      213: -4937886850510005112
+    second: TheHero_teleport_BlackLight_2
+  - first:
+      213: -3996953198616530299
+    second: TheHero_teleport_BlackLight_3
+  - first:
+      213: 4325342375565368026
+    second: TheHero_teleport_BlackLight_4
+  - first:
+      213: -455041754884521880
+    second: TheHero_teleport_BlackLight_5
+  - first:
+      213: 4150161221980046603
+    second: TheHero_teleport_BlackLight_6
+  - first:
+      213: -249824317805862593
+    second: TheHero_teleport_BlackLight_7
+  - first:
+      213: -8977242428806832241
+    second: TheHero_teleport_BlackLight_8
+  - first:
+      213: 5536072969665037087
+    second: TheHero_teleport_BlackLight_9
+  - first:
+      213: -3262776639977339072
+    second: TheHero_teleport_BlackLight_10
+  - first:
+      213: 2864530444245817832
+    second: TheHero_teleport_BlackLight_11
+  - first:
+      213: -6371721707878307074
+    second: TheHero_teleport_BlackLight_12
+  - first:
+      213: -120587910034033301
+    second: TheHero_teleport_BlackLight_13
+  - first:
+      213: 2510361916275710662
+    second: TheHero_teleport_BlackLight_14
+  - first:
+      213: -1491560527218796131
+    second: TheHero_teleport_BlackLight_15
+  - first:
+      213: -491171512348241967
+    second: TheHero_teleport_BlackLight_16
+  - first:
+      213: 5429243039502996622
+    second: TheHero_teleport_BlackLight_17
+  - first:
+      213: 2862740841836304740
+    second: TheHero_teleport_BlackLight_18
+  - first:
+      213: 7648383299956747288
+    second: TheHero_teleport_BlackLight_19
+  - first:
+      213: -2298902556473484669
+    second: TheHero_teleport_BlackLight_20
+  - first:
+      213: 5694274879600387972
+    second: TheHero_teleport_BlackLight_21
+  - first:
+      213: 274499869891827554
+    second: TheHero_teleport_BlackLight_22
+  - first:
+      213: 3250499442440420143
+    second: TheHero_teleport_BlackLight_23
+  - first:
+      213: -1770253361737444768
+    second: TheHero_teleport_BlackLight_24
+  - first:
+      213: 2462892914354936860
+    second: TheHero_teleport_BlackLight_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3264
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2755b4f000d7f2180800000000000000
+      internalID: -9137947679701379726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3264
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb3f696f2bb30f60800000000000000
+      internalID: 7999443175446887396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3264
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c574e421a197bb0800000000000000
+      internalID: -4937886850510005112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3264
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582b99c1e38f788c0800000000000000
+      internalID: -3996953198616530299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_4
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3264
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada948359f3b60c30800000000000000
+      internalID: 4325342375565368026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_5
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3264
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86043225fed5fa9f0800000000000000
+      internalID: -455041754884521880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_6
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3264
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05c8b494a5589930800000000000000
+      internalID: 4150161221980046603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_7
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3264
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f316de84b12788cf0800000000000000
+      internalID: -249824317805862593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_8
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3264
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f5760139d6a6380800000000000000
+      internalID: -8977242428806832241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_9
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 3264
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13c687d80514dc40800000000000000
+      internalID: 5536072969665037087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2432
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04745b0dee948b2d0800000000000000
+      internalID: -3262776639977339072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2432
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e95099134bd0c720800000000000000
+      internalID: 2864530444245817832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_12
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2432
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaa4429dd81397a0800000000000000
+      internalID: -6371721707878307074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_13
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2432
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65f63a4fe5935ef0800000000000000
+      internalID: -120587910034033301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_14
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2432
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca5845ccd896d220800000000000000
+      internalID: 2510361916275710662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_15
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2432
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9911266a99ec4be0800000000000000
+      internalID: -1491560527218796131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_16
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2432
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df01b2ac120f29f0800000000000000
+      internalID: -491171512348241967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_17
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2432
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8496d077cb885b40800000000000000
+      internalID: 5429243039502996622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_18
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2432
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469d7a1d0af7ab720800000000000000
+      internalID: 2862740841836304740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_19
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 2432
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ca3f3a614842a60800000000000000
+      internalID: 7648383299956747288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a19241e48a810e0800000000000000
+      internalID: -2298902556473484669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1600
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487e20c55d0260f40800000000000000
+      internalID: 5694274879600387972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHero_teleport_BlackLight_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1600
+        width: 800
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2671bc36d283fc300800000000000000
+      internalID: 274499869891827554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

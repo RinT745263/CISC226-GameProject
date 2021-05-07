@@ -1,0 +1,895 @@
+fileFormatVersion: 2
+guid: ddb4cdcff09da9f429eeec9df99af200
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4123051577784938873
+    second: flashBodyAttack 1_0
+  - first:
+      213: 6284006063892040322
+    second: flashBodyAttack 1_1
+  - first:
+      213: -5396675341216443758
+    second: flashBodyAttack 1_2
+  - first:
+      213: -7890809256695571418
+    second: flashBodyAttack 1_3
+  - first:
+      213: -3179217112730446261
+    second: flashBodyAttack 1_4
+  - first:
+      213: 3832447988501654745
+    second: flashBodyAttack 1_5
+  - first:
+      213: -4843342849649312729
+    second: flashBodyAttack 1_6
+  - first:
+      213: -5130437387044252051
+    second: flashBodyAttack 1_7
+  - first:
+      213: -3295527686145006190
+    second: flashBodyAttack 1_8
+  - first:
+      213: -6427117758938127487
+    second: flashBodyAttack 1_9
+  - first:
+      213: 2052779955907600022
+    second: flashBodyAttack 1_10
+  - first:
+      213: 6170172674915118864
+    second: flashBodyAttack 1_11
+  - first:
+      213: -7746618047557857638
+    second: flashBodyAttack 1_12
+  - first:
+      213: 7210005816242657687
+    second: flashBodyAttack 1_13
+  - first:
+      213: 3261058781993442538
+    second: flashBodyAttack 1_14
+  - first:
+      213: 6791166108220972324
+    second: flashBodyAttack 1_15
+  - first:
+      213: -2293159615951688492
+    second: flashBodyAttack 1_16
+  - first:
+      213: -1774260529584857999
+    second: flashBodyAttack 1_17
+  - first:
+      213: -2830404449727216534
+    second: flashBodyAttack 1_18
+  - first:
+      213: 3413662037632844627
+    second: flashBodyAttack 1_19
+  - first:
+      213: 1900437031888299235
+    second: flashBodyAttack 1_20
+  - first:
+      213: 1192687865498689106
+    second: flashBodyAttack 1_21
+  - first:
+      213: -2225641296247651122
+    second: flashBodyAttack 1_22
+  - first:
+      213: -3452351255947457936
+    second: flashBodyAttack 1_23
+  - first:
+      213: -6325239084920586828
+    second: flashBodyAttack 1_24
+  - first:
+      213: 1955323438711669682
+    second: flashBodyAttack 1_25
+  - first:
+      213: -7321910300186040878
+    second: flashBodyAttack 1_26
+  - first:
+      213: -1828410991007908599
+    second: flashBodyAttack 1_27
+  - first:
+      213: -2295946353513289800
+    second: flashBodyAttack 1_28
+  - first:
+      213: 8722331999028644324
+    second: flashBodyAttack 1_29
+  - first:
+      213: -4269941723733166731
+    second: flashBodyAttack 1_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flashBodyAttack 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ec3835f6af7c6c0800000000000000
+      internalID: -4123051577784938873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2240
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a8fa49836453750800000000000000
+      internalID: 6284006063892040322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_2
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2240
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2921fa6be582b15b0800000000000000
+      internalID: -5396675341216443758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cdb40d9c63e7290800000000000000
+      internalID: -7890809256695571418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1920
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46dbd351e621e3d0800000000000000
+      internalID: -3179217112730446261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_5
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1920
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc2dcee3279f2530800000000000000
+      internalID: 3832447988501654745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1920
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c7931e65df8ccb0800000000000000
+      internalID: -4843342849649312729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6618d2f0660dc8b0800000000000000
+      internalID: -5130437387044252051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_8
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1600
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295acd7a70fe342d0800000000000000
+      internalID: -3295527686145006190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_9
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1600
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18363e8537a4ec6a0800000000000000
+      internalID: -6427117758938127487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_10
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1600
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e1ae96e70fc7c10800000000000000
+      internalID: 2052779955907600022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f232b5b5bd0a550800000000000000
+      internalID: 6170172674915118864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_12
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1280
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e0fa8ddeb7e7490800000000000000
+      internalID: -7746618047557857638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_13
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1280
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799d4a1f6161f0460800000000000000
+      internalID: 7210005816242657687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_14
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1280
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec13643fab914d20800000000000000
+      internalID: 3261058781993442538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dde2328911f3e50800000000000000
+      internalID: 6791166108220972324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_16
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 960
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcaded9a7f0d20e0800000000000000
+      internalID: -2293159615951688492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_17
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 960
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c1913e27f8067e0800000000000000
+      internalID: -1774260529584857999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_18
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 960
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64035b262268b8d0800000000000000
+      internalID: -2830404449727216534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35387507983cf5f20800000000000000
+      internalID: 3413662037632844627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_20
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 640
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e423bb5965bf5a10800000000000000
+      internalID: 1900437031888299235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_21
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 640
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ed7f66b474d8010800000000000000
+      internalID: 1192687865498689106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_22
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 640
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec408b3780fec11e0800000000000000
+      internalID: -2225641296247651122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ac065f2d8c610d0800000000000000
+      internalID: -3452351255947457936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 320
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd34e7909c3838a0800000000000000
+      internalID: -6325239084920586828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_25
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 320
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b38769ce44b22b10800000000000000
+      internalID: 1955323438711669682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_26
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 320
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d523280069536a90800000000000000
+      internalID: -7321910300186040878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dbd8914ed20a6e0800000000000000
+      internalID: -1828410991007908599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_28
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7ac77b4f82320e0800000000000000
+      internalID: -2295946353513289800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_29
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9002f7db2fb0970800000000000000
+      internalID: 8722331999028644324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashBodyAttack 1_30
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1000
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575f34910ae1eb4c0800000000000000
+      internalID: -4269941723733166731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

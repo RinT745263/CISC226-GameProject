@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5bf6637939455e4fa20fb67566ed114, type: 3}
+  m_Name: Bug_4
+  m_EditorClassIdentifier: 
+  dialogModels:
+  - NPCconf: {fileID: 11400000, guid: a034a88ecc3bf1d4b9ccac78f153af90, type: 2}
+    dialogText: Nice to see you again!
+    dialogEventModels: []
+    dialogSelections:
+    - dialogSelection: Why are you here?
+      dialogEventModels:
+      - dialogEvent: 0
+        args: 
+  - NPCconf: {fileID: 11400000, guid: 6f3d064c0ef7ce64387c63eb6dda371c, type: 2}
+    dialogText: Pika! Pika!
+    dialogEventModels:
+    - dialogEvent: 0
+      args: 
+    dialogSelections: []
+  - NPCconf: {fileID: 11400000, guid: 2cc6229757f43a140a37f341f6eff8fb, type: 2}
+    dialogText: The USB!
+    dialogEventModels:
+    - dialogEvent: 0
+      args: 
+    dialogSelections: []
+  - NPCconf: {fileID: 11400000, guid: d0f04dd149353ef4094c8ee4af485d14, type: 2}
+    dialogText: That thing wanted to steal our data in the USB,
+    dialogEventModels:
+    - dialogEvent: 0
+      args: 
+    dialogSelections: []
+  - NPCconf: {fileID: 11400000, guid: d0f04dd149353ef4094c8ee4af485d14, type: 2}
+    dialogText: but it underestimated the power of USB.
+    dialogEventModels:
+    - dialogEvent: 0
+      args: 
+    dialogSelections: []
+  - NPCconf: {fileID: 11400000, guid: d0f04dd149353ef4094c8ee4af485d14, type: 2}
+    dialogText: When it accessed to the USB, we could also read its programs.
+    dialogEventModels:
+    - dialogEvent: 0
+      args: 
+    dialogSelections: []
+  - NPCconf: {fileID: 11400000, guid: d0f04dd149353ef4094c8ee4af485d14, type: 2}
+    dialogText: Because the connection works in two directions!
+    dialogEventModels:
+    - dialogEvent: 0
+      args: 
+    dialogSelections: []
+  - NPCconf: {fileID: 11400000, guid: a1390784cc7b1384293c21c3b3fadce3, type: 2}
+    dialogText: We have overwritten our programs,
+    dialogEventModels:
+    - dialogEvent: 0
+      args: 
+    dialogSelections: []
+  - NPCconf: {fileID: 11400000, guid: a1390784cc7b1384293c21c3b3fadce3, type: 2}
+    dialogText: and we will give our power to you.
+    dialogEventModels:
+    - dialogEvent: 0
+      args: 
+    dialogSelections: []
+  - NPCconf: {fileID: 11400000, guid: a1390784cc7b1384293c21c3b3fadce3, type: 2}
+    dialogText: Use it to defeat the enemy!
+    dialogEventModels:
+    - dialogEvent: 0
+      args: 
+    dialogSelections: []
+  - NPCconf: {fileID: 11400000, guid: 95321165f1ca0214689fb8b8edee1ac6, type: 2}
+    dialogText: My skill will make you away from any damage right now
+    dialogEventModels:
+    - dialogEvent: 0
+      args: 
+    dialogSelections: []
+  - NPCconf: {fileID: 11400000, guid: 95321165f1ca0214689fb8b8edee1ac6, type: 2}
+    dialogText: So it is the time to take the revenge!
+    dialogEventModels:
+    - dialogEvent: 1
+      args: GivePowerFin
+    dialogSelections: []

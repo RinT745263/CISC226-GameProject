@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4872380479405894673
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4872380479405894687}
+  - component: {fileID: 4872380479405894686}
+  m_Layer: 0
+  m_Name: AudioCont 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4872380479405894687
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4872380479405894673}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 100000, y: 10000, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4872380479405894686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4872380479405894673}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61bc062a20ab5d247b4a2ab546a494ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - typeName: grassRun
+    m_clips:
+    - {fileID: 8300000, guid: 4a46e133598a85a4c9fcebf3199b3c54, type: 3}
+    - {fileID: 8300000, guid: dd980b665af8cb045b9c89381bd3d025, type: 3}
+    - {fileID: 8300000, guid: 3ef5444af8837d84fb36f71ee3f561b6, type: 3}
+    - {fileID: 8300000, guid: 10ef866269c5cb54e9f23d4cc41250c0, type: 3}
+    - {fileID: 8300000, guid: ff683c153ea5781498582c0402549f73, type: 3}
+    - {fileID: 8300000, guid: ee9c693c8c81ae44e8623a88da988c4a, type: 3}
+    - {fileID: 8300000, guid: d73c656401906bd42a86614afa96b072, type: 3}
+    - {fileID: 8300000, guid: b13a1284ed2cedd419724f30fd656361, type: 3}
+    - {fileID: 8300000, guid: 70a72c8e95ccdb74495e3eade613513f, type: 3}
+    - {fileID: 8300000, guid: 2f3540eeebbf78f4c80f33c7cc18a49c, type: 3}
+    volume: 0.1
+    pitch: 1
+  - typeName: land
+    m_clips:
+    - {fileID: 8300000, guid: f304a0fb173fac049bffda845bd4e7d2, type: 3}
+    volume: 0.2
+    pitch: 1
+  - typeName: deathEffect
+    m_clips:
+    - {fileID: 8300000, guid: 8785129cd0673cf4b9b50b23b811f22a, type: 3}
+    volume: 1
+    pitch: 1
+  - typeName: BugAttackFour
+    m_clips:
+    - {fileID: 8300000, guid: 496a949b2c2b3aa4ea553979346c6254, type: 3}
+    volume: 0.8
+    pitch: 1
+  - typeName: BugAttackOne
+    m_clips:
+    - {fileID: 8300000, guid: da74903016d258546aed13be5a48c68c, type: 3}
+    volume: 1
+    pitch: 3
+  - typeName: BugAttackThree
+    m_clips:
+    - {fileID: 8300000, guid: 18bf955de32427f48bab56c2ff292bcd, type: 3}
+    volume: 1
+    pitch: 1
+  - typeName: BugAttackTwo
+    m_clips:
+    - {fileID: 8300000, guid: 9058ebf98e2073249847fe34be3b6cea, type: 3}
+    volume: 2
+    pitch: 1
+  - typeName: BugAttackFourBody
+    m_clips:
+    - {fileID: 8300000, guid: bc65a4b28ef377c4c83fa854b3782bf8, type: 3}
+    volume: 1
+    pitch: 1
+  - typeName: PlayerAttackOne
+    m_clips:
+    - {fileID: 8300000, guid: f473d96bd02333643823288795662cb8, type: 3}
+    volume: 0.3
+    pitch: 1
+  - typeName: PlayerAttackTwo
+    m_clips:
+    - {fileID: 8300000, guid: 65c2ba3f7667b594ca14b7a370498e12, type: 3}
+    volume: 1
+    pitch: 1
+  - typeName: PlayerAttackThree
+    m_clips:
+    - {fileID: 8300000, guid: 9588afe4425319a489177daabe509e4d, type: 3}
+    volume: 1
+    pitch: 1
+  - typeName: PlayerAttackFour
+    m_clips:
+    - {fileID: 8300000, guid: 901c51d1ea8534b4cbed601e99c7c3b7, type: 3}
+    volume: 1
+    pitch: 1
+  - typeName: PlayerAttackFive
+    m_clips:
+    - {fileID: 8300000, guid: 430ee7c1625b6d44693ebf756c74b23d, type: 3}
+    volume: 1
+    pitch: 1
+  - typeName: Flash
+    m_clips:
+    - {fileID: 8300000, guid: 54347bdd95d34fb429c50fa241551d20, type: 3}
+    volume: 1
+    pitch: 2
+  - typeName: Teleport
+    m_clips:
+    - {fileID: 8300000, guid: b07f5a0f9c1f7b3469bbc54182459258, type: 3}
+    volume: 1
+    pitch: 1
+  - typeName: PlayertoBug
+    m_clips:
+    - {fileID: 8300000, guid: eb8f79852bde100419a71a516ec4ed5a, type: 3}
+    volume: 1
+    pitch: 1
+  - typeName: Teleport_PlayerSet
+    m_clips:
+    - {fileID: 8300000, guid: aa3a3d7c5fe1dae43bd486c9dbae0bca, type: 3}
+    volume: 0.5
+    pitch: 1
+  - typeName: Flash_attack_sword_begin
+    m_clips:
+    - {fileID: 8300000, guid: 112c94735f28f03498c49906369fd9fe, type: 3}
+    volume: 1
+    pitch: 3
+  - typeName: Tip
+    m_clips:
+    - {fileID: 8300000, guid: 0e4bf876539fb3940b093f2601603c1c, type: 3}
+    volume: 1
+    pitch: 1

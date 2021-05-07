@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 5118f8a9a0f83f34684db5ee64cd2ac0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1232981906432732658
+    second: BossHP_Attack_0
+  - first:
+      213: 4325277621570333417
+    second: BossHP_Attack_1
+  - first:
+      213: -874273973539675641
+    second: BossHP_Attack_2
+  - first:
+      213: -2441519443221592118
+    second: BossHP_Attack_3
+  - first:
+      213: -2276424338234910116
+    second: BossHP_Attack_4
+  - first:
+      213: 6767708066425440771
+    second: BossHP_Attack_5
+  - first:
+      213: -3273152239685798916
+    second: BossHP_Attack_6
+  - first:
+      213: -573811242285256769
+    second: BossHP_Attack_7
+  - first:
+      213: -7390250666250737423
+    second: BossHP_Attack_8
+  - first:
+      213: 6232274270254484413
+    second: BossHP_Attack_9
+  - first:
+      213: -3185761286809263284
+    second: BossHP_Attack_10
+  - first:
+      213: -7557124428977746831
+    second: BossHP_Attack_11
+  - first:
+      213: 1522317376705699796
+    second: BossHP_Attack_12
+  - first:
+      213: -405312225216179950
+    second: BossHP_Attack_13
+  - first:
+      213: 34780042348563215
+    second: BossHP_Attack_14
+  - first:
+      213: 3034458559132649546
+    second: BossHP_Attack_15
+  - first:
+      213: -2227716218560025100
+    second: BossHP_Attack_16
+  - first:
+      213: 7269131502029058505
+    second: BossHP_Attack_17
+  - first:
+      213: -5519002631775631756
+    second: BossHP_Attack_18
+  - first:
+      213: -5095928371318085309
+    second: BossHP_Attack_19
+  - first:
+      213: -8824511718272413117
+    second: BossHP_Attack_20
+  - first:
+      213: 5585096251933337282
+    second: BossHP_Attack_21
+  - first:
+      213: 5217103743134771771
+    second: BossHP_Attack_22
+  - first:
+      213: -4001420901970573086
+    second: BossHP_Attack_23
+  - first:
+      213: 246488954239570317
+    second: BossHP_Attack_24
+  - first:
+      213: -5724460047184036194
+    second: BossHP_Attack_25
+  - first:
+      213: 279986021343374779
+    second: BossHP_Attack_26
+  - first:
+      213: 6857440330050883226
+    second: BossHP_Attack_27
+  - first:
+      213: 7772739394306648755
+    second: BossHP_Attack_28
+  - first:
+      213: -5546439661918906645
+    second: BossHP_Attack_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossHP_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd2863e28e6c1110800000000000000
+      internalID: 1232981906432732658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea65ac9419760c30800000000000000
+      internalID: 4325277621570333417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 3096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7026cc20474fdd3f0800000000000000
+      internalID: -874273973539675641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 3096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7419a800bfd1ed0800000000000000
+      internalID: -2441519443221592118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 3096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a547910248860e0800000000000000
+      internalID: -2276424338234910116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 3096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a85da21aabbed50800000000000000
+      internalID: 6767708066425440771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 3096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3f0c1416d6392d0800000000000000
+      internalID: -3273152239685798916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 3096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf267f17b96908f0800000000000000
+      internalID: -573811242285256769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 3096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8e70d9c2e807990800000000000000
+      internalID: -7390250666250737423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 3096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb4355cd6c7d7650800000000000000
+      internalID: 6232274270254484413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43ea801df6e9c3d0800000000000000
+      internalID: -3185761286809263284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cca570f53bf1790800000000000000
+      internalID: -7557124428977746831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df92f9a69b502510800000000000000
+      internalID: 1522317376705699796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211ddd8bdaa006af0800000000000000
+      internalID: -405312225216179950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b8575a3409b7000800000000000000
+      internalID: 34780042348563215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 2096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48ceb67bff8c1a20800000000000000
+      internalID: 3034458559132649546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 2096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd6a54f6ef8511e0800000000000000
+      internalID: -2227716218560025100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 2096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c13b0c669421e460800000000000000
+      internalID: 7269131502029058505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 2096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476419ae8509863b0800000000000000
+      internalID: -5519002631775631756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 2096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34920ca4520a749b0800000000000000
+      internalID: -5095928371318085309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342d914b859098580800000000000000
+      internalID: -8824511718272413117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c62ad4337f328d40800000000000000
+      internalID: 5585096251933337282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3aa8e58630e66840800000000000000
+      internalID: 5217103743134771771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8883dd3e81878c0800000000000000
+      internalID: -4001420901970573086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81d18ed564bb6300800000000000000
+      internalID: 246488954239570317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 1096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9efda4aae1ae80b0800000000000000
+      internalID: -5724460047184036194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_26
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 1096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd2f309dc5b2e300800000000000000
+      internalID: 279986021343374779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_27
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ece1dd5a58a2f50800000000000000
+      internalID: 6857440330050883226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_28
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 1096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba25512c415edb60800000000000000
+      internalID: 7772739394306648755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHP_Attack_29
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 1096
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be69f2783861703b0800000000000000
+      internalID: -5546439661918906645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

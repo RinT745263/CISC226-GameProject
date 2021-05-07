@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5bf6637939455e4fa20fb67566ed114, type: 3}
+  m_Name: LinkDialog0
+  m_EditorClassIdentifier: 
+  dialogModels:
+  - NPCconf: {fileID: 11400000, guid: a034a88ecc3bf1d4b9ccac78f153af90, type: 2}
+    dialogText: I found another player in the wild.
+    dialogEventModels:
+    - dialogEvent: 0
+      args: 
+    dialogSelections: []
+  - NPCconf: {fileID: 11400000, guid: 0e753b15b41365648bb5a2568b30a235, type: 2}
+    dialogText: ...
+    dialogEventModels:
+    - dialogEvent: 0
+      args: 
+    dialogSelections: []
+  - NPCconf: {fileID: 11400000, guid: a034a88ecc3bf1d4b9ccac78f153af90, type: 2}
+    dialogText: Okay, I will bring him back to the village.
+    dialogEventModels:
+    - dialogEvent: 0
+      args: 
+    dialogSelections: []
+  - NPCconf: {fileID: 11400000, guid: 0e753b15b41365648bb5a2568b30a235, type: 2}
+    dialogText: ...
+    dialogEventModels:
+    - dialogEvent: 1
+      args: SectionOne
+    dialogSelections: []

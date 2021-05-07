@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: f027adc07661cf349bef6dbe36a52b92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5707903381046056148
+    second: LevelTwo_Bug_Close11_0
+  - first:
+      213: 5306183196749009023
+    second: LevelTwo_Bug_Close11_1
+  - first:
+      213: -5216184452105421302
+    second: LevelTwo_Bug_Close11_2
+  - first:
+      213: -3269733763011326573
+    second: LevelTwo_Bug_Close11_3
+  - first:
+      213: 3182616035264165650
+    second: LevelTwo_Bug_Close11_4
+  - first:
+      213: -5105978656093160281
+    second: LevelTwo_Bug_Close11_5
+  - first:
+      213: -5339982012929884384
+    second: LevelTwo_Bug_Close11_6
+  - first:
+      213: 4711960176485611562
+    second: LevelTwo_Bug_Close11_7
+  - first:
+      213: 1082273264288549140
+    second: LevelTwo_Bug_Close11_8
+  - first:
+      213: -2743740546670211685
+    second: LevelTwo_Bug_Close11_9
+  - first:
+      213: -4306247487682663295
+    second: LevelTwo_Bug_Close11_10
+  - first:
+      213: -5657361229618961499
+    second: LevelTwo_Bug_Close11_11
+  - first:
+      213: 34510939243144764
+    second: LevelTwo_Bug_Close11_12
+  - first:
+      213: -7647942235475023719
+    second: LevelTwo_Bug_Close11_13
+  - first:
+      213: -683969343915367756
+    second: LevelTwo_Bug_Close11_14
+  - first:
+      213: -384107114997410667
+    second: LevelTwo_Bug_Close11_15
+  - first:
+      213: -7217992116454891808
+    second: LevelTwo_Bug_Close11_16
+  - first:
+      213: -701466684636855075
+    second: LevelTwo_Bug_Close11_17
+  - first:
+      213: 8367257400073289470
+    second: LevelTwo_Bug_Close11_18
+  - first:
+      213: 4245567258180565457
+    second: LevelTwo_Bug_Close11_19
+  - first:
+      213: 1311631061710220935
+    second: LevelTwo_Bug_Close11_20
+  - first:
+      213: -6122007801703910371
+    second: LevelTwo_Bug_Close11_21
+  - first:
+      213: -5806540759508703724
+    second: LevelTwo_Bug_Close11_22
+  - first:
+      213: 561300604050995701
+    second: LevelTwo_Bug_Close11_23
+  - first:
+      213: 6156363416610054732
+    second: LevelTwo_Bug_Close11_24
+  - first:
+      213: 4295887667109847919
+    second: LevelTwo_Bug_Close11_25
+  - first:
+      213: 219302662689567155
+    second: LevelTwo_Bug_Close11_26
+  - first:
+      213: 9215395442115432202
+    second: LevelTwo_Bug_Close11_27
+  - first:
+      213: -6322091804466645645
+    second: LevelTwo_Bug_Close11_28
+  - first:
+      213: -1782628450167676202
+    second: LevelTwo_Bug_Close11_29
+  - first:
+      213: -6170971992442120955
+    second: LevelTwo_Bug_Close11_30
+  - first:
+      213: 8021803267679549697
+    second: LevelTwo_Bug_Close11_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1748
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4508f12eb863f40800000000000000
+      internalID: 5707903381046056148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1748
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f701f5b018953a940800000000000000
+      internalID: 5306183196749009023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1748
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e375990e36c97b0800000000000000
+      internalID: -5216184452105421302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1748
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dcb9167729f92d0800000000000000
+      internalID: -3269733763011326573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_4
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1748
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217f16efb6cea2c20800000000000000
+      internalID: 3182616035264165650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_5
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1748
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac37d4077be329b0800000000000000
+      internalID: -5105978656093160281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_6
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1748
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fb654d6a294e5b0800000000000000
+      internalID: -5339982012929884384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_7
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1748
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a283633c0de346140800000000000000
+      internalID: 4711960176485611562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41942dbbcc1050f00800000000000000
+      internalID: 1082273264288549140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1448
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dc2ef72864ce9d0800000000000000
+      internalID: -2743740546670211685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_10
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1448
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ca1c5b9b22d34c0800000000000000
+      internalID: -4306247487682663295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_11
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1448
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3ae768fe30d71b0800000000000000
+      internalID: -5657361229618961499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_12
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1448
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36e372348b9a7000800000000000000
+      internalID: 34510939243144764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_13
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1448
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998edcfae0d0dd590800000000000000
+      internalID: -7647942235475023719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_14
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1448
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2eaaa618d0286f0800000000000000
+      internalID: -683969343915367756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_15
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1448
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59411ee2d906baaf0800000000000000
+      internalID: -384107114997410667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eed223a96a84db90800000000000000
+      internalID: -7217992116454891808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1148
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4037054c3e346f0800000000000000
+      internalID: -701466684636855075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_18
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1148
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe70a316487e1470800000000000000
+      internalID: 8367257400073289470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_19
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1148
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9b1e56de84bea30800000000000000
+      internalID: 4245567258180565457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_20
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1148
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e2b955089d33210800000000000000
+      internalID: 1311631061710220935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_21
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1148
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14b44317524a0ba0800000000000000
+      internalID: -6122007801703910371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_22
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1148
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41628af81f50b6fa0800000000000000
+      internalID: -5806540759508703724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_23
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1148
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9fbacece32ac700800000000000000
+      internalID: 561300604050995701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42a04bd8ebcf6550800000000000000
+      internalID: 6156363416610054732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 848
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f636019921f0e9b30800000000000000
+      internalID: 4295887667109847919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_26
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 848
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1b8eb1c9e1b0300800000000000000
+      internalID: 219302662689567155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_27
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 848
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f4b005459a3ef70800000000000000
+      internalID: 9215395442115432202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_28
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 848
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3757b5deffa6348a0800000000000000
+      internalID: -6322091804466645645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_29
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 848
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2204d8ed4d247e0800000000000000
+      internalID: -1782628450167676202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_30
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 848
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5055a970bad4c5aa0800000000000000
+      internalID: -6170971992442120955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_31
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 848
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1097b14129b235f60800000000000000
+      internalID: 8021803267679549697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

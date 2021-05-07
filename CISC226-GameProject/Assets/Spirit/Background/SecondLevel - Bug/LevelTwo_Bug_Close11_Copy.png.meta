@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: d2f20776719bfe346b7e7ac81a00e0a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1566944569628222600
+    second: LevelTwo_Bug_Close11_Copy_0
+  - first:
+      213: 7164138777638433131
+    second: LevelTwo_Bug_Close11_Copy_1
+  - first:
+      213: -5380775358420428752
+    second: LevelTwo_Bug_Close11_Copy_2
+  - first:
+      213: 6205750302475625239
+    second: LevelTwo_Bug_Close11_Copy_3
+  - first:
+      213: 8895170637595095974
+    second: LevelTwo_Bug_Close11_Copy_4
+  - first:
+      213: 6345570982996894049
+    second: LevelTwo_Bug_Close11_Copy_5
+  - first:
+      213: -4886913944740469952
+    second: LevelTwo_Bug_Close11_Copy_6
+  - first:
+      213: 9125113975085335745
+    second: LevelTwo_Bug_Close11_Copy_7
+  - first:
+      213: -1762243333080014522
+    second: LevelTwo_Bug_Close11_Copy_8
+  - first:
+      213: 4718894030215329342
+    second: LevelTwo_Bug_Close11_Copy_9
+  - first:
+      213: -7036255457436655494
+    second: LevelTwo_Bug_Close11_Copy_10
+  - first:
+      213: 7900866696742111415
+    second: LevelTwo_Bug_Close11_Copy_11
+  - first:
+      213: 448506798907353522
+    second: LevelTwo_Bug_Close11_Copy_12
+  - first:
+      213: -6718844451204131471
+    second: LevelTwo_Bug_Close11_Copy_13
+  - first:
+      213: -1381700845443309317
+    second: LevelTwo_Bug_Close11_Copy_14
+  - first:
+      213: -1917516535985559269
+    second: LevelTwo_Bug_Close11_Copy_15
+  - first:
+      213: -4091122079092931668
+    second: LevelTwo_Bug_Close11_Copy_16
+  - first:
+      213: 4610336556590855429
+    second: LevelTwo_Bug_Close11_Copy_17
+  - first:
+      213: 8788630388705273997
+    second: LevelTwo_Bug_Close11_Copy_18
+  - first:
+      213: 1334856126406320780
+    second: LevelTwo_Bug_Close11_Copy_19
+  - first:
+      213: 8774460347029994446
+    second: LevelTwo_Bug_Close11_Copy_20
+  - first:
+      213: -3196290058439223943
+    second: LevelTwo_Bug_Close11_Copy_21
+  - first:
+      213: -4329013942672957577
+    second: LevelTwo_Bug_Close11_Copy_22
+  - first:
+      213: 8338317903398378521
+    second: LevelTwo_Bug_Close11_Copy_23
+  - first:
+      213: -4333450750524523682
+    second: LevelTwo_Bug_Close11_Copy_24
+  - first:
+      213: 2602116414509430752
+    second: LevelTwo_Bug_Close11_Copy_25
+  - first:
+      213: -9116467514934127789
+    second: LevelTwo_Bug_Close11_Copy_26
+  - first:
+      213: 9178133711801133642
+    second: LevelTwo_Bug_Close11_Copy_27
+  - first:
+      213: -114770483373254835
+    second: LevelTwo_Bug_Close11_Copy_28
+  - first:
+      213: -6146340858975330874
+    second: LevelTwo_Bug_Close11_Copy_29
+  - first:
+      213: -3299778243257104611
+    second: LevelTwo_Bug_Close11_Copy_30
+  - first:
+      213: -7014901845982833363
+    second: LevelTwo_Bug_Close11_Copy_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1748
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b15984738114ae0800000000000000
+      internalID: -1566944569628222600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1748
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b617db2d2422c6360800000000000000
+      internalID: 7164138777638433131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1748
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038dc21f155a355b0800000000000000
+      internalID: -5380775358420428752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1748
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71325d745014f1650800000000000000
+      internalID: 6205750302475625239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_4
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1748
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a33756f09ef17b70800000000000000
+      internalID: 8895170637595095974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_5
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1748
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1616e82503fff0850800000000000000
+      internalID: 6345570982996894049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_6
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1748
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04367d3c8a13e2cb0800000000000000
+      internalID: -4886913944740469952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_7
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1748
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c40aeb30dae2ae70800000000000000
+      internalID: 9125113975085335745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64127fb76014b87e0800000000000000
+      internalID: -1762243333080014522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1448
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3632b36e11ec7140800000000000000
+      internalID: 4718894030215329342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_10
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1448
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70a59ee0f23a5e90800000000000000
+      internalID: -7036255457436655494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_11
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1448
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8070d666485ad60800000000000000
+      internalID: 7900866696742111415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_12
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1448
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9683cae8a693600800000000000000
+      internalID: 448506798907353522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_13
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1448
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1759fd0d19ed1c2a0800000000000000
+      internalID: -6718844451204131471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_14
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1448
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0ae71d66633dce0800000000000000
+      internalID: -1381700845443309317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_15
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1448
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19a4a5bedc9365e0800000000000000
+      internalID: -1917516535985559269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca388ee052a6937c0800000000000000
+      internalID: -4091122079092931668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1148
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505789eeba43bff30800000000000000
+      internalID: 4610336556590855429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_18
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1148
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d882bfc36cc77f970800000000000000
+      internalID: 8788630388705273997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_19
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1148
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82e3b8139c568210800000000000000
+      internalID: 1334856126406320780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_20
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1148
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb3970523525c970800000000000000
+      internalID: 8774460347029994446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_21
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1148
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9751e93602f74a3d0800000000000000
+      internalID: -3196290058439223943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_22
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1148
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fd34751c04ce3c0800000000000000
+      internalID: -4329013942672957577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_23
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1148
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c175074f7a7b370800000000000000
+      internalID: 8338317903398378521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bf553808d7cd3c0800000000000000
+      internalID: -4333450750524523682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 848
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e73c07a7139c1420800000000000000
+      internalID: 2602116414509430752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_26
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 848
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35396f5a81dcb7180800000000000000
+      internalID: -9116467514934127789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_27
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 848
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aa1f8abf74f5f70800000000000000
+      internalID: 9178133711801133642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_28
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 848
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4756db7ad0486ef0800000000000000
+      internalID: -114770483373254835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_29
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 848
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd5e40bd8fc3baa0800000000000000
+      internalID: -6146340858975330874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_30
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 848
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d170915bb25d432d0800000000000000
+      internalID: -3299778243257104611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Bug_Close11_Copy_31
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 848
+        width: 1000
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2516f700ff06ae90800000000000000
+      internalID: -7014901845982833363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

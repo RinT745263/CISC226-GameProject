@@ -1,0 +1,994 @@
+fileFormatVersion: 2
+guid: d65425950b576de499f33a57d9563424
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6100930646206759901
+    second: Bug_TakeIn_Player_0
+  - first:
+      213: 1085780435931626481
+    second: Bug_TakeIn_Player_1
+  - first:
+      213: 8339236483029746063
+    second: Bug_TakeIn_Player_2
+  - first:
+      213: -7618781923666793989
+    second: Bug_TakeIn_Player_3
+  - first:
+      213: 6962810858088887148
+    second: Bug_TakeIn_Player_4
+  - first:
+      213: -2637445227842338361
+    second: Bug_TakeIn_Player_5
+  - first:
+      213: 4786832530985822927
+    second: Bug_TakeIn_Player_6
+  - first:
+      213: 7729656884259894786
+    second: Bug_TakeIn_Player_7
+  - first:
+      213: -8651283636802508139
+    second: Bug_TakeIn_Player_8
+  - first:
+      213: 7894088676044017291
+    second: Bug_TakeIn_Player_9
+  - first:
+      213: 78211121111461731
+    second: Bug_TakeIn_Player_10
+  - first:
+      213: 7019879611533410069
+    second: Bug_TakeIn_Player_11
+  - first:
+      213: -9005394217123583131
+    second: Bug_TakeIn_Player_12
+  - first:
+      213: -183159816756800819
+    second: Bug_TakeIn_Player_13
+  - first:
+      213: -9113461417355415613
+    second: Bug_TakeIn_Player_14
+  - first:
+      213: -4959920236257945282
+    second: Bug_TakeIn_Player_15
+  - first:
+      213: 6221880480254664029
+    second: Bug_TakeIn_Player_16
+  - first:
+      213: 7513991773443846208
+    second: Bug_TakeIn_Player_17
+  - first:
+      213: -911455257517944025
+    second: Bug_TakeIn_Player_18
+  - first:
+      213: 8797994797253145108
+    second: Bug_TakeIn_Player_19
+  - first:
+      213: -8263692609510949614
+    second: Bug_TakeIn_Player_20
+  - first:
+      213: -3853786156063766474
+    second: Bug_TakeIn_Player_21
+  - first:
+      213: -8104450466795824207
+    second: Bug_TakeIn_Player_22
+  - first:
+      213: 3275345480080663234
+    second: Bug_TakeIn_Player_23
+  - first:
+      213: 5699294338261550274
+    second: Bug_TakeIn_Player_24
+  - first:
+      213: 7035103078351157399
+    second: Bug_TakeIn_Player_25
+  - first:
+      213: -1844965834461884197
+    second: Bug_TakeIn_Player_26
+  - first:
+      213: -5263147784139560321
+    second: Bug_TakeIn_Player_27
+  - first:
+      213: 7205598584121749484
+    second: Bug_TakeIn_Player_28
+  - first:
+      213: 4046344027395195553
+    second: Bug_TakeIn_Player_29
+  - first:
+      213: -3537558722587856374
+    second: Bug_TakeIn_Player_30
+  - first:
+      213: -5958233007418105371
+    second: Bug_TakeIn_Player_31
+  - first:
+      213: 5433718684119304266
+    second: Bug_TakeIn_Player_32
+  - first:
+      213: -5202957077495976112
+    second: Bug_TakeIn_Player_33
+  - first:
+      213: 6670933195679338369
+    second: Bug_TakeIn_Player_34
+  - first:
+      213: 8345575395623520057
+    second: Bug_TakeIn_Player_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3c27e391cdaa450800000000000000
+      internalID: 6100930646206759901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_1
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbf5c3cd87711f00800000000000000
+      internalID: 1085780435931626481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_2
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8147fce56beab370800000000000000
+      internalID: 8339236483029746063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_3
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf96caad436a44690800000000000000
+      internalID: -7618781923666793989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_4
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63fe9ab59fd0a060800000000000000
+      internalID: 6962810858088887148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_5
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c188eff989e56bd0800000000000000
+      internalID: -2637445227842338361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_6
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaa1b043de3e6240800000000000000
+      internalID: 4786832530985822927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_7
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206b6f59bf1454b60800000000000000
+      internalID: 7729656884259894786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_8
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59aac396e5770f780800000000000000
+      internalID: -8651283636802508139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_9
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e890183df6d8d60800000000000000
+      internalID: 7894088676044017291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f655ba99cd51100800000000000000
+      internalID: 78211121111461731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_11
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fb473505f9b6160800000000000000
+      internalID: 7019879611533410069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_12
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bedf11ca9660380800000000000000
+      internalID: -9005394217123583131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_13
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2d519fd19457df0800000000000000
+      internalID: -183159816756800819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_14
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf6d48402b768180800000000000000
+      internalID: -9113461417355415613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_15
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39d29be2d2da2bb0800000000000000
+      internalID: -4959920236257945282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_16
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d1484f45f885650800000000000000
+      internalID: 6221880480254664029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_17
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040f35505bf074860800000000000000
+      internalID: 7513991773443846208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_18
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7231bfab54cd953f0800000000000000
+      internalID: -911455257517944025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_19
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412320287a1c81a70800000000000000
+      internalID: 8797994797253145108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 780
+        height: 298
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51342285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d3415ca57715d80800000000000000
+      internalID: -8263692609510949614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_21
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6384087c8e9948ac0800000000000000
+      internalID: -3853786156063766474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_22
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbd2ea5d35378f80800000000000000
+      internalID: -8104450466795824207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_23
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2a3e05c5d547d20800000000000000
+      internalID: 3275345480080663234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_24
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c489762106f71f40800000000000000
+      internalID: 5699294338261550274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_25
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798b067e9f4b1a160800000000000000
+      internalID: 7035103078351157399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_26
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0da2e395d5566e0800000000000000
+      internalID: -1844965834461884197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_27
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a2af5c9fa85f6b0800000000000000
+      internalID: -5263147784139560321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_28
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef62a04cbd6ff360800000000000000
+      internalID: 7205598584121749484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_29
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a20ae75470872830800000000000000
+      internalID: 4046344027395195553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02f018a51118eec0800000000000000
+      internalID: -3537558722587856374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_31
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 848
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e126d7d5aa105da0800000000000000
+      internalID: -5958233007418105371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_32
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 848
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a488558aa52786b40800000000000000
+      internalID: 5433718684119304266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_33
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 848
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f6f3eba126bc7b0800000000000000
+      internalID: -5202957077495976112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug_TakeIn_Player_34
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 848
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f04d8b56ae39c50800000000000000
+      internalID: 6670933195679338369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

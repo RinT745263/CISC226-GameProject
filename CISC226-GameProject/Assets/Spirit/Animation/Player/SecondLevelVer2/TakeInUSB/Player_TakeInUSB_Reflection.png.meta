@@ -1,0 +1,1231 @@
+fileFormatVersion: 2
+guid: 0ee8847ae04cd2542abddb97737f91b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -166715761664189086
+    second: Player_TakeInUSB_Reflection_0
+  - first:
+      213: 4795908496096012257
+    second: Player_TakeInUSB_Reflection_1
+  - first:
+      213: -2539844650774717015
+    second: Player_TakeInUSB_Reflection_2
+  - first:
+      213: -7094183274402844261
+    second: Player_TakeInUSB_Reflection_3
+  - first:
+      213: 1911911061097040659
+    second: Player_TakeInUSB_Reflection_4
+  - first:
+      213: -182984020046947936
+    second: Player_TakeInUSB_Reflection_5
+  - first:
+      213: 5035229704628597222
+    second: Player_TakeInUSB_Reflection_6
+  - first:
+      213: 2764325177817733948
+    second: Player_TakeInUSB_Reflection_7
+  - first:
+      213: 1682778870202432053
+    second: Player_TakeInUSB_Reflection_8
+  - first:
+      213: 3455886276261482333
+    second: Player_TakeInUSB_Reflection_9
+  - first:
+      213: 7717666878097254661
+    second: Player_TakeInUSB_Reflection_10
+  - first:
+      213: -2744681391490422740
+    second: Player_TakeInUSB_Reflection_11
+  - first:
+      213: -8328916949087446175
+    second: Player_TakeInUSB_Reflection_12
+  - first:
+      213: -7550071215544746966
+    second: Player_TakeInUSB_Reflection_13
+  - first:
+      213: 4363398697478941230
+    second: Player_TakeInUSB_Reflection_14
+  - first:
+      213: -8266025397937398328
+    second: Player_TakeInUSB_Reflection_15
+  - first:
+      213: -435041132170436503
+    second: Player_TakeInUSB_Reflection_16
+  - first:
+      213: -6178770041816314935
+    second: Player_TakeInUSB_Reflection_17
+  - first:
+      213: 9129094529095083447
+    second: Player_TakeInUSB_Reflection_18
+  - first:
+      213: -3410441369955203462
+    second: Player_TakeInUSB_Reflection_19
+  - first:
+      213: 965901209481640847
+    second: Player_TakeInUSB_Reflection_20
+  - first:
+      213: 1560524938008053174
+    second: Player_TakeInUSB_Reflection_21
+  - first:
+      213: -3494250164234161042
+    second: Player_TakeInUSB_Reflection_22
+  - first:
+      213: 4330027220177862128
+    second: Player_TakeInUSB_Reflection_23
+  - first:
+      213: -1873248971952191619
+    second: Player_TakeInUSB_Reflection_24
+  - first:
+      213: 8200543593733790540
+    second: Player_TakeInUSB_Reflection_25
+  - first:
+      213: -7470645771321072195
+    second: Player_TakeInUSB_Reflection_26
+  - first:
+      213: -2392827341149786731
+    second: Player_TakeInUSB_Reflection_27
+  - first:
+      213: 875165045978946508
+    second: Player_TakeInUSB_Reflection_28
+  - first:
+      213: -1374432290724773818
+    second: Player_TakeInUSB_Reflection_29
+  - first:
+      213: -373350290332869996
+    second: Player_TakeInUSB_Reflection_30
+  - first:
+      213: -213012420802344453
+    second: Player_TakeInUSB_Reflection_31
+  - first:
+      213: 5177422657553375397
+    second: Player_TakeInUSB_Reflection_32
+  - first:
+      213: -8853351012944223905
+    second: Player_TakeInUSB_Reflection_33
+  - first:
+      213: -4121264226935652115
+    second: Player_TakeInUSB_Reflection_34
+  - first:
+      213: -5187472894858968023
+    second: Player_TakeInUSB_Reflection_35
+  - first:
+      213: 8406670148228070125
+    second: Player_TakeInUSB_Reflection_36
+  - first:
+      213: 8572152607773507330
+    second: Player_TakeInUSB_Reflection_37
+  - first:
+      213: 6277348515532224094
+    second: Player_TakeInUSB_Reflection_38
+  - first:
+      213: -7304216150546555706
+    second: Player_TakeInUSB_Reflection_39
+  - first:
+      213: -9148635658793812098
+    second: Player_TakeInUSB_Reflection_40
+  - first:
+      213: -2035280121923484537
+    second: Player_TakeInUSB_Reflection_41
+  - first:
+      213: 6515669920878187707
+    second: Player_TakeInUSB_Reflection_42
+  - first:
+      213: 3801502856659718621
+    second: Player_TakeInUSB_Reflection_43
+  - first:
+      213: -8677196678822889183
+    second: Player_TakeInUSB_Reflection_44
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d1c87e5e4bfadf0800000000000000
+      internalID: -166715761664189086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_1
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7a41d0e5d7e8240800000000000000
+      internalID: 4795908496096012257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_2
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad95ed2fb8a0ccd0800000000000000
+      internalID: -2539844650774717015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_3
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9173b506e56c8d90800000000000000
+      internalID: -7094183274402844261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_4
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b44d6faf8788a10800000000000000
+      internalID: 1911911061097040659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_5
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a95785d009e57df0800000000000000
+      internalID: -182984020046947936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_6
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1f1e21dbab0e540800000000000000
+      internalID: 5035229704628597222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_7
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b9e7b6a1bdc5620800000000000000
+      internalID: 2764325177817733948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_8
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53af2f9777e6a5710800000000000000
+      internalID: 1682778870202432053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_9
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 1748
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f86b81246c5ff20800000000000000
+      internalID: 3455886276261482333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509e8cbb229aa1b60800000000000000
+      internalID: 7717666878097254661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_11
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28a69ef0dee8e9d0800000000000000
+      internalID: -2744681391490422740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_12
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b99edc92eb96c80800000000000000
+      internalID: -8328916949087446175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_13
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cbd804b32c83790800000000000000
+      internalID: -7550071215544746966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_14
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a62a04ff7ed8c30800000000000000
+      internalID: 4363398697478941230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_15
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd959322bd294d80800000000000000
+      internalID: -8266025397937398328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_16
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9602c4e256c66f9f0800000000000000
+      internalID: -435041132170436503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_17
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb86bc2269904aa0800000000000000
+      internalID: -6178770041816314935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_18
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5acaf2b1f01be70800000000000000
+      internalID: 9129094529095083447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_19
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 1448
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a760680b4adaba0d0800000000000000
+      internalID: -3410441369955203462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bf54f4802976d00800000000000000
+      internalID: 965901209481640847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_21
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5cb11c92918a510800000000000000
+      internalID: 1560524938008053174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_22
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64f87c2dfde18fc0800000000000000
+      internalID: -3494250164234161042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_23
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd3976b0d8571c30800000000000000
+      internalID: 4330027220177862128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_24
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d778ce22cf1e006e0800000000000000
+      internalID: -1873248971952191619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_25
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b9b9d33fe2ec170800000000000000
+      internalID: 8200543593733790540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_26
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db522ad804fe25890800000000000000
+      internalID: -7470645771321072195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_27
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dace10638faced0800000000000000
+      internalID: -2392827341149786731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_28
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbd965f8f5352c00800000000000000
+      internalID: 875165045978946508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_29
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 1148
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64006871d190dece0800000000000000
+      internalID: -1374432290724773818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a9be793e791daf0800000000000000
+      internalID: -373350290332869996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_31
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 848
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf98455f45a3b0df0800000000000000
+      internalID: -213012420802344453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_32
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 848
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a02783d976e9d740800000000000000
+      internalID: 5177422657553375397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_33
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 848
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f516d992924922580800000000000000
+      internalID: -8853351012944223905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_34
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 848
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0c9ff55045ec6c0800000000000000
+      internalID: -4121264226935652115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_35
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 848
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924c6f3f2e46208b0800000000000000
+      internalID: -5187472894858968023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_36
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 848
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deab30995fd7aa470800000000000000
+      internalID: 8406670148228070125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_37
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 848
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f37ca216766f670800000000000000
+      internalID: 8572152607773507330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_38
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 848
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56bf9f473f9d1750800000000000000
+      internalID: 6277348515532224094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_39
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 848
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc50084c1632aa90800000000000000
+      internalID: -7304216150546555706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f7f120754890180800000000000000
+      internalID: -9148635658793812098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_41
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 548
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7844652338b31c3e0800000000000000
+      internalID: -2035280121923484537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_42
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 548
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb454a3854f4c6a50800000000000000
+      internalID: 6515669920878187707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_43
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 548
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1d5d7f4b6a1c430800000000000000
+      internalID: 3801502856659718621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_TakeInUSB_Reflection_44
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 548
+        width: 780
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3025641, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129ff882897649780800000000000000
+      internalID: -8677196678822889183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
